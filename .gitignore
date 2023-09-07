@@ -1,5 +1,6 @@
-atomic_mass.txt
+./atomic_mass.txt
 *.txt
+.txt
 .env
 DS_Store
 *.DS_Store
