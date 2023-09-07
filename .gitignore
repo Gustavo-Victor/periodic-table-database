@@ -1,0 +1,7 @@
+atomic_mass.txt
+*.txt
+.env
+DS_Store
+*.DS_Store
+*.notes
+*.note
